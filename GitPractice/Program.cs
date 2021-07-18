@@ -14,6 +14,7 @@ namespace GitPractice
             FuncionalidadeB.DoWork();
             FuncionalidadeC.DoWork();
             FuncionalidadeD.DoWork();
+            FuncionalidadeE.DoWork();
         }
     }
 }
