@@ -11,6 +11,7 @@ namespace GitPractice
             Hello3.HelloWorld();
 
             FuncionalidadeA.DoWork();
+            FuncionalidadeB.DoWork();
         }
     }
 }
