@@ -9,6 +9,8 @@ namespace GitPractice
             Hello1.HelloWorld();
             Hello2.HelloWorld();
             Hello3.HelloWorld();
+
+            FuncionalidadeA.DoWork();
         }
     }
 }
