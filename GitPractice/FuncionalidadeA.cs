@@ -6,6 +6,7 @@ namespace GitPractice
     {
         public static void DoWork()
         {
+            // Ajuste na funcionalidade A
             Console.WriteLine("DoWork");
         }
     }
