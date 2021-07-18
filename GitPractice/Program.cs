@@ -16,7 +16,7 @@ namespace GitPractice
             FuncionalidadeD.DoWork();
             FuncionalidadeE.DoWork();
             FuncionalidadeF.DoWork();
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
