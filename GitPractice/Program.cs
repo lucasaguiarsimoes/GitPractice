@@ -16,6 +16,7 @@ namespace GitPractice
             FuncionalidadeD.DoWork();
             FuncionalidadeE.DoWork();
             FuncionalidadeF.DoWork();
+            // Faz uma leitura para que o usuário possa visualizar o console antes de fechar o programa
             Console.ReadKey();
         }
     }
