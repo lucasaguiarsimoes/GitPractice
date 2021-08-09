@@ -4,7 +4,7 @@ namespace GitPractice
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Hello1.HelloWorld();
             Hello2.HelloWorld();
